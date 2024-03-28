@@ -1,1 +1,1 @@
-go
+go for everyone
